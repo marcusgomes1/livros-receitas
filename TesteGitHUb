@@ -1,0 +1,7 @@
+def not_the_same(id1,id2):
+  if (id1!=id2):
+    return True
+  else: 
+    return False
+not_the_same(0,1)
+not_the_same(1,1)
